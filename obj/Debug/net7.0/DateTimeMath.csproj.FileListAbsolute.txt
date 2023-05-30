@@ -1,0 +1,15 @@
+D:\Patika\DateTimeMath\bin\Debug\net7.0\DateTimeMath.exe
+D:\Patika\DateTimeMath\bin\Debug\net7.0\DateTimeMath.deps.json
+D:\Patika\DateTimeMath\bin\Debug\net7.0\DateTimeMath.runtimeconfig.json
+D:\Patika\DateTimeMath\bin\Debug\net7.0\DateTimeMath.dll
+D:\Patika\DateTimeMath\bin\Debug\net7.0\DateTimeMath.pdb
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.csproj.AssemblyReference.cache
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.AssemblyInfoInputs.cache
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.AssemblyInfo.cs
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.csproj.CoreCompileInputs.cache
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.dll
+D:\Patika\DateTimeMath\obj\Debug\net7.0\refint\DateTimeMath.dll
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.pdb
+D:\Patika\DateTimeMath\obj\Debug\net7.0\DateTimeMath.genruntimeconfig.cache
+D:\Patika\DateTimeMath\obj\Debug\net7.0\ref\DateTimeMath.dll
